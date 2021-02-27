@@ -5,8 +5,8 @@
 ### User Stories
 
 #### REQUIRED (10pts)
-- [ ] (5pts) User can tap a cell to see more details about a particular movie.
-- [ ] (5pts) User can tap a tab bar button to view a grid layout of Movie Posters using a CollectionView.
+- [x] (5pts) User can tap a cell to see more details about a particular movie.
+- [x] (5pts) User can tap a tab bar button to view a grid layout of Movie Posters using a CollectionView.
 
 #### BONUS
 - [ ] (2pts) User can tap a poster in the collection view to see a detail screen of that movie.
@@ -17,6 +17,7 @@
 <img src="http://g.recordit.co/ESwEqxG0pA.gif" width=250><br>
 
 ### Notes
+
 Well I accidentally didn't commit last time so I had to redo part 1, but I added everything I missed. 
 The main hard part was that I forgot to link the superhero view controller to the view controller file and coundn't link the two, but I figured that out.
 ---

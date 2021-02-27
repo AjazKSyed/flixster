@@ -17,9 +17,8 @@
 <img src="http://g.recordit.co/ESwEqxG0pA.gif" width=250><br>
 
 ### Notes
+Well I accidentally didn't commit last time so I had to redo part 1, but I added everything I missed. The main hard part was that I forgot to link the superhero view controller to the view controller file and coundn't link the two, but I figured that out.
 
-Well I accidentally didn't commit last time so I had to redo part 1, but I added everything I missed. 
-The main hard part was that I forgot to link the superhero view controller to the view controller file and coundn't link the two, but I figured that out.
 ---
 
 ## Flix Part 1
@@ -41,4 +40,4 @@ The main hard part was that I forgot to link the superhero view controller to th
 <img src="http://g.recordit.co/6MFwYgg8cy.gif" width=250><br>
 
 ### Notes
-None
+
